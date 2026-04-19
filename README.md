@@ -91,4 +91,4 @@ The API is called once per currency, covering the full date range needed. Retrie
 
 ## License
 
-Personal project. Not intended for commercial use or redistribution.
+MIT — do whatever you like.
