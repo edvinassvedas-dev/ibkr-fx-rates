@@ -1,7 +1,6 @@
-# Allow only .py files, README, and .gitignore — ignore everything else
 *
 
-# Re-allow tracked file types
 !*.py
 !README*
 !.gitignore
+!requirements.txt
