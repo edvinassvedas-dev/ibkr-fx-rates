@@ -2,5 +2,6 @@
 
 !*.py
 !README*
+!LICENSE*
 !.gitignore
 !requirements.txt
